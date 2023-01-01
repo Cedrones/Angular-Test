@@ -16,13 +16,13 @@
       "id": 3,
       "text": "Schule",
       "day": "April 17th at 2:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
-      "id": 4,
-      "text": "jkwdwankj",
-      "day": "April 17th at 2:30pm",
-      "reminder": false
+      "text": " zrobic nalesniki ",
+      "day": " dzisiaj 17:00",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
